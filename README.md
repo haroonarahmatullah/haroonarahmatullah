@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 
 > *Results-driven Sr. AWS DevOps Platform Engineer with 9+ years of progressive cloud-native experience — from founding CI/CD pipelines at Peerless Network, scaling enterprise Kubernetes and DevSecOps at United Health Group, to architecting self-healing, AIOps-augmented platforms at Cisco.*
 
