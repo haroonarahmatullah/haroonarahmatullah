@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0ea5e9&height=200&section=header&text=Ahmad%20Haroon&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Sr.%20AWS%20Platform%20Engineer%20%7C%20Cloud%20DevOps%20%7C%20AIOps%20%7C%20MLOps&descAlignY=58&descColor=94a3b8" />
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=false&width=700&lines=8%2B+Years+Building+Cloud-Native+Platforms;EKS+%7C+Terraform+%7C+GitOps+%7C+ArgoCD;DevSecOps+%7C+FinOps+%7C+AIOps+Practitioner;Agentic+AI+%7C+GenAI+%7C+MLOps+on+AWS+Bedrock)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=false&width=700&lines=9%2B+Years+Building+Cloud-Native+Platforms;EKS+%7C+Terraform+%7C+GitOps+%7C+ArgoCD;DevSecOps+%7C+FinOps+%7C+AIOps+Practitioner;Agentic+AI+%7C+GenAI+%7C+MLOps+on+AWS+Bedrock)](https://git.io/typing-svg)
 
 <br/>
 
