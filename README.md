@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-> *Results-driven Sr. AWS DevOps Platform Engineer with 8+ years of progressive cloud-native experience — from founding CI/CD pipelines at Peerless Network, scaling enterprise Kubernetes and DevSecOps at United Health Group, to architecting self-healing, AIOps-augmented platforms at Cisco.*
+> *Results-driven Sr. AWS DevOps Platform Engineer with 9+ years of progressive cloud-native experience — from founding CI/CD pipelines at Peerless Network, scaling enterprise Kubernetes and DevSecOps at United Health Group, to architecting self-healing, AIOps-augmented platforms at Cisco.*
 
 I build **production-grade cloud platforms** that are secure, observable, cost-optimized, and increasingly autonomous. My current frontier: integrating **Agentic AI, GenAI tooling, and MLOps** to shift operations from reactive firefighting to **predictive, self-healing systems**.
 
@@ -37,7 +37,7 @@ I build **production-grade cloud platforms** that are secure, observable, cost-o
 | 🚀 Impact | 📊 Scale | 🔒 Security |
 |:---:|:---:|:---:|
 | **30% reduction** in cloud infrastructure spend via FinOps | **200+ servers** automated via Ansible Tower | Enterprise **DevSecOps** pipelines at Cisco & UHG |
-| **MTTR** measurably cut using AIOps & CloudWatch Anomaly Detection | **8+ years** production EKS/Kubernetes | CIS Benchmark · NIST · HIPAA-compliant delivery |
+| **MTTR** measurably cut using AIOps & CloudWatch Anomaly Detection | **9+ years** production EKS/Kubernetes | CIS Benchmark · NIST · HIPAA-compliant delivery |
 | Self-healing infra with **Bedrock Agents + SSM** — zero human intervention | **12 app migrations** to AWS at Peerless | Shift-left security: SonarQube · Trivy · Snyk |
 
 </div>
@@ -129,7 +129,7 @@ I build **production-grade cloud platforms** that are secure, observable, cost-o
 <summary><b>🔵 EKS / Kubernetes Platform Engineering</b></summary>
 <br/>
 
-Production EKS cluster architecture and operations for 8+ years. Microservice deployments across namespaces with Helm, HPA driven by Prometheus custom metrics, IRSA for pod-level IAM, NGINX Ingress Controllers, RBAC policies, PodSecurityAdmission, Network Policies, EBS/EFS CSI drivers, and Velero backup strategies. Cluster upgrades via blue-green methodology.
+Production EKS cluster architecture and operations for 9+ years. Microservice deployments across namespaces with Helm, HPA driven by Prometheus custom metrics, IRSA for pod-level IAM, NGINX Ingress Controllers, RBAC policies, PodSecurityAdmission, Network Policies, EBS/EFS CSI drivers, and Velero backup strategies. Cluster upgrades via blue-green methodology.
 
 </details>
 
